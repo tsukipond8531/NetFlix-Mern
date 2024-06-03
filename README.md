@@ -9,7 +9,8 @@
 
 # Data Visualization Dashboard 
 
-(/Screenshot 2024-06-02 151712.png)
+<a href="../../" target="_blank"><img src="https://raw.githubusercontent.com/akash-2410/NetFlix-Mern/master/.png" height="300"></a>
+
 
 
 
